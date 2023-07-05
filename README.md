@@ -22,30 +22,30 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- So we 
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+So the 5 parameter that will help us avoiding giving loan to probable defaulter are
+
+1. Loan Amount
+2. Rate Of interest
+3. Term
+4. Grade and Sub-Grade of Applicant
+6. Verification status of Applicant
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3
+- Pandas 2.0.3
+- Numpy 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+Thank upgrade for providing the assignment.
+Also thanks S. Anand for Exploratory Data Analysis session
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [[kedarlachke](https://github.com/kedarlachke)] - feel free to contact me!
 
 
 <!-- Optional -->
