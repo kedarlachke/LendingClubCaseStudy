@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Lending Club is a facilitator that provide lender or inverstor find probable borowers.
+> In this case we have to find 5 driving parameter that will help avoid approve or lending loans to probable defaulters
 
 
 ## Table of Contents
@@ -11,15 +12,17 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+ Lending club has mentained all the records of loan given to applicant and other details such as verification status and loan amount, 
+ rate of interest,loan status and many more details we capyured for each applicant
+ We performed data cleaning, data manipulation on column such as emp_length, rate of interest.
+ Also derived new columns from existing columns
+ Performed segmented analysis, univariate and Bivariate analysis
+ We also wanted to indentify outliers but due to limitation of time we were not able to identify 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
+- So we 
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
